@@ -7,21 +7,28 @@
 ## Exemples 
 
 ### Diamant A
+```
 A
+```
 
 ### Diamant B
+```
  A 
 B B
  A
+```
  
 ### Diamant C
+```
   A 
  B B
 C   C
  B B
   A
+```
 
 ### Diamant D
+```
    A 
   B B
  C   C
@@ -29,6 +36,7 @@ D     D
  C   C
   B B
    A
+```
   
 ## Objectifs
 Ecrire une classe Diamond possédant à minima 1 méthode :
